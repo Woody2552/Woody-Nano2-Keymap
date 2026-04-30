@@ -1,4 +1,4 @@
-# Woody's Nano 2 Trackball Custom Firmware Keymap
+# Woody's Nano 2 Trackball Mouse-like Custom Firmware Keymap
 ## Behaviors:
 ### Mouse1 Layer (Default)
 * 1000 DPI Trackball Mode
