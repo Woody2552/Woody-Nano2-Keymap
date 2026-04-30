@@ -6,7 +6,7 @@
 * Swift double tap primes Mouse2
 * Swift triple tap primes Mouse3
 * Swift quintuple (5) tap activates Scroll mode
-* A regular double tap can still be done sluggishly
+* A regular double tap can still be done if sluggishly
 ### Mouse2 Layer
 * 1000 DPI Trackball Mode
 * Button activates Mouse2, then returns to Mouse1
@@ -19,8 +19,8 @@
 * Single tap returns to Mouse1
 
 ## Only 3 Modified Files
-
-You could just download these and drag them into a regular QMK install
+I've inlcuded the compiled firmware file WoodyNano2Keymap.uf2 at the top of the repo.
+If you want to edit the files you could just download these and drag them into a regular QMK install
 * ...keyboards/ploopyco/nano_2/rules.mk
 * ...keyboards/ploopyco/nano_2/config.h
 * ...keyboards/ploopyco/nano_2/keymaps/WoodyNano2/keymap.c
